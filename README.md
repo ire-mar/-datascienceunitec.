@@ -1,2 +1,2 @@
-# -datascienceunitec.
-For Studying
+# datascienceunitec.
+Academic
